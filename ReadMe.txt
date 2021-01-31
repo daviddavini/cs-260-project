@@ -1,0 +1,1 @@
+The CS 260 project seeks to try various GNNs to predict the node-level subject area for arxiv papers in the ogbn-arxiv dataset: https://ogb.stanford.edu/docs/nodeprop/
