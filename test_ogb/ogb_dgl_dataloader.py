@@ -44,9 +44,11 @@ valid_feat = G.ndata['feat'][valid_idx]
 test_feat = G.ndata['feat'][test_idx]
 
 
-# %%Get frequencies of each paper category, and plot the histogram
-label_array = th.flatten(label)
-label_array = label.numpy()
+# %%Get frequencies of each paper category, and plot the histogram colored by train, validate, and test sets
+
+# The histogram shows that the paper categories are very imbalanced. The top 3 categories: cs.GL (graphics), 
+# cs.MA (multiagent systems) and cs.NE (neural and evolutionary computing) have many more papers >21000.
+# CS.DM (discrete math), cs.SC (symbolic computation), cs.IT (information theory) and some others have very few <1000.
 
 category_names = ["cs.AI", "cs.AR", "cs.CC", "cs.CE", "cs.CG", "cs.CL", "cs.CR", "cs.CV", "cs.CY",
                   "cs.DB", "cs.DC", "cs.DL", "cs.DM", "cs.DS", "cs.ET", "cs.FL", "cs.GL", "cs.GR",
@@ -54,19 +56,50 @@ category_names = ["cs.AI", "cs.AR", "cs.CC", "cs.CE", "cs.CG", "cs.CL", "cs.CR",
                   "cs.NA", "cs.NE", "cs.NI", "cs.OH", "cs.OS", "cs.PF", "cs.PL", "cs.RO", "cs.SC",
                   "cs.SD", "cs.SE", "cs.SI", "cs.SY"]
 
-frequency=[]
+train_labels = th.flatten(label[train_idx]).numpy()
+valid_labels = th.flatten(label[valid_idx]).numpy()
+test_labels = th.flatten(label[test_idx]).numpy()
+
+train_freq, valid_freq, test_freq = [], [], []
+
 for i in range(num_classes):
-    frequency.append(np.count_nonzero(label_array==i))
-    
+    train_freq.append(np.count_nonzero(train_labels==i))
+    valid_freq.append(np.count_nonzero(valid_labels==i))
+    test_freq.append(np.count_nonzero(test_labels==i))
+
+train_freq, valid_freq, test_freq = np.array(train_freq), np.array(valid_freq), np.array(test_freq)
+
+# Plot histogram in alphebetical order of paper categories
 fig, ax = plt.subplots(figsize=(15, 8))
-ax.bar(category_names,frequency)
-plt.setp(ax.get_xticklabels(), rotation = 60, horizontalalignment = 'center')
+ax.bar(category_names, train_freq, color = 'tab:blue')
+ax.bar(category_names, valid_freq, bottom = train_freq, color = 'tab:purple')
+ax.bar(category_names, test_freq, bottom = (valid_freq + train_freq), color = 'tab:red')
+ax.legend(labels=['Train', 'Validate', 'Test'], prop={'size': 15})
+plt.setp(ax.get_xticklabels(), rotation = 88, horizontalalignment = 'center')
 ax.tick_params(axis='both', labelsize = 13)
-plt.title("Distribution of Paper Categories", fontdict={'fontsize':20})
+plt.title("Distribution of Paper Categories", fontdict={'fontsize':25})
 plt.ylabel('Frequency', fontdict={'fontsize':15})
-plt.savefig('Class_histogram.png',bbox_inches='tight')
+plt.savefig('class_histogram.png',bbox_inches='tight')
 plt.show()
 
-# The histogram shows that the paper categories are very imbalanced. The top 3 categories: cs.GL (graphics), 
-# cs.MA (multiagent systems) and cs.NE (neural and evolutionary computing) have many more papers >21000.
-# CS.DM (discrete math), cs.SC (symbolic computation), cs.IT (information theory) and some others have very few <1000.
+# Plot histogram in frequency order of paper categories for training set
+ordering = np.argsort(np.array(train_freq))
+sorted_train_freq = np.sort(train_freq)   
+sorted_valid_freq = valid_freq[ordering]
+sorted_test_freq = test_freq[ordering]
+sorted_names = []
+for i in ordering:
+    sorted_names.append(category_names[i])
+
+fig, ax = plt.subplots(figsize=(15, 8))
+ax.bar(sorted_names, sorted_train_freq, color = 'tab:blue')
+ax.bar(sorted_names, sorted_valid_freq, bottom = sorted_train_freq, color = 'tab:purple')
+ax.bar(sorted_names, sorted_test_freq, bottom = (sorted_valid_freq + sorted_train_freq), color = 'tab:red')
+ax.legend(labels=['Train', 'Validate', 'Test'], prop={'size': 15})
+plt.setp(ax.get_xticklabels(), rotation = 60, horizontalalignment = 'center')
+ax.tick_params(axis='both', labelsize = 13)
+plt.title("Distribution of Paper Categories", fontdict={'fontsize':25})
+plt.ylabel('Frequency', fontdict={'fontsize':15})
+plt.savefig('class_histogram_sorted.png',bbox_inches='tight')
+plt.show()
+
