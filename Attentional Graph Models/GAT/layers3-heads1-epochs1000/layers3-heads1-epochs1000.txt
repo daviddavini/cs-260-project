@@ -1,0 +1,2608 @@
+Starting Epoch  1
+Epoch run-time  6.8760271072387695
+Starting Epoch  2
+Epoch run-time  6.398589849472046
+Starting Epoch  3
+Epoch run-time  6.6520843505859375
+Starting Epoch  4
+Epoch run-time  6.899597406387329
+Starting Epoch  5
+Epoch run-time  6.004827499389648
+Starting Epoch  6
+Epoch run-time  6.684384346008301
+Starting Epoch  7
+Epoch run-time  5.981696605682373
+Starting Epoch  8
+Epoch run-time  6.043832302093506
+Starting Epoch  9
+Epoch run-time  6.005803346633911
+Starting Epoch  10
+Epoch run-time  6.693857908248901
+
+Epoch: 10/1000
+Loss: 1.9447, Acc: 0.3540
+Train/Val/Test loss: 2.2559/2.3032/2.3211
+Train/Val/Test/Best val/Best test acc: 0.3852/0.3692/0.3318/0.3692/0.3318
+
+Starting Epoch  11
+Epoch run-time  6.009441614151001
+Starting Epoch  12
+Epoch run-time  5.904860496520996
+Starting Epoch  13
+Epoch run-time  6.073762893676758
+Starting Epoch  14
+Epoch run-time  6.757981538772583
+Starting Epoch  15
+Epoch run-time  6.079725980758667
+Starting Epoch  16
+Epoch run-time  6.051061153411865
+Starting Epoch  17
+Epoch run-time  6.0648908615112305
+Starting Epoch  18
+Epoch run-time  6.91988468170166
+Starting Epoch  19
+Epoch run-time  5.954084396362305
+Starting Epoch  20
+Epoch run-time  6.110082626342773
+
+Epoch: 20/1000
+Loss: 1.5052, Acc: 0.5136
+Train/Val/Test loss: 1.7339/1.7544/1.7958
+Train/Val/Test/Best val/Best test acc: 0.5783/0.5814/0.5566/0.5814/0.5566
+
+Starting Epoch  21
+Epoch run-time  5.991930246353149
+Starting Epoch  22
+Epoch run-time  6.082683801651001
+Starting Epoch  23
+Epoch run-time  6.0776262283325195
+Starting Epoch  24
+Epoch run-time  6.138249158859253
+Starting Epoch  25
+Epoch run-time  6.742004871368408
+Starting Epoch  26
+Epoch run-time  5.999829292297363
+Starting Epoch  27
+Epoch run-time  6.492785930633545
+Starting Epoch  28
+Epoch run-time  6.018314599990845
+Starting Epoch  29
+Epoch run-time  6.459409475326538
+Starting Epoch  30
+Epoch run-time  6.098782300949097
+
+Epoch: 30/1000
+Loss: 1.3109, Acc: 0.5735
+Train/Val/Test loss: 1.3171/1.3018/1.3241
+Train/Val/Test/Best val/Best test acc: 0.6150/0.6337/0.6338/0.6337/0.6338
+
+Starting Epoch  31
+Epoch run-time  6.076458930969238
+Starting Epoch  32
+Epoch run-time  6.22870135307312
+Starting Epoch  33
+Epoch run-time  6.883883953094482
+Starting Epoch  34
+Epoch run-time  5.952468156814575
+Starting Epoch  35
+Epoch run-time  5.934662818908691
+Starting Epoch  36
+Epoch run-time  5.926249027252197
+Starting Epoch  37
+Epoch run-time  5.959863901138306
+Starting Epoch  38
+Epoch run-time  5.993664979934692
+Starting Epoch  39
+Epoch run-time  5.943888902664185
+Starting Epoch  40
+Epoch run-time  6.003032922744751
+
+Epoch: 40/1000
+Loss: 1.2097, Acc: 0.6024
+Train/Val/Test loss: 1.2074/1.1889/1.1348
+Train/Val/Test/Best val/Best test acc: 0.6010/0.6070/0.6284/0.6457/0.6570
+
+Starting Epoch  41
+Epoch run-time  6.130593538284302
+Starting Epoch  42
+Epoch run-time  5.977057218551636
+Starting Epoch  43
+Epoch run-time  6.079807996749878
+Starting Epoch  44
+Epoch run-time  6.534196138381958
+Starting Epoch  45
+Epoch run-time  6.065920829772949
+Starting Epoch  46
+Epoch run-time  6.0196614265441895
+Starting Epoch  47
+Epoch run-time  5.893985748291016
+Starting Epoch  48
+Epoch run-time  6.967162132263184
+Starting Epoch  49
+Epoch run-time  6.106383323669434
+Starting Epoch  50
+Epoch run-time  6.055142402648926
+
+Epoch: 50/1000
+Loss: 1.1628, Acc: 0.6169
+Train/Val/Test loss: 1.1128/1.1301/1.1023
+Train/Val/Test/Best val/Best test acc: 0.6300/0.6245/0.6350/0.6457/0.6570
+
+Starting Epoch  51
+Epoch run-time  5.988630533218384
+Starting Epoch  52
+Epoch run-time  6.929430723190308
+Starting Epoch  53
+Epoch run-time  6.099316596984863
+Starting Epoch  54
+Epoch run-time  6.054220199584961
+Starting Epoch  55
+Epoch run-time  6.084381103515625
+Starting Epoch  56
+Epoch run-time  7.0216405391693115
+Starting Epoch  57
+Epoch run-time  5.93585205078125
+Starting Epoch  58
+Epoch run-time  6.037425756454468
+Starting Epoch  59
+Epoch run-time  6.015388011932373
+Starting Epoch  60
+Epoch run-time  5.973841190338135
+
+Epoch: 60/1000
+Loss: 1.1146, Acc: 0.6333
+Train/Val/Test loss: 1.0320/0.9921/0.9766
+Train/Val/Test/Best val/Best test acc: 0.6550/0.6672/0.6716/0.6672/0.6716
+
+Starting Epoch  61
+Epoch run-time  6.034137010574341
+Starting Epoch  62
+Epoch run-time  6.384154558181763
+Starting Epoch  63
+Epoch run-time  5.976633787155151
+Starting Epoch  64
+Epoch run-time  6.464523553848267
+Starting Epoch  65
+Epoch run-time  6.107528924942017
+Starting Epoch  66
+Epoch run-time  6.022212266921997
+Starting Epoch  67
+Epoch run-time  6.055480718612671
+Starting Epoch  68
+Epoch run-time  6.083386659622192
+Starting Epoch  69
+Epoch run-time  5.9728522300720215
+Starting Epoch  70
+Epoch run-time  6.048961639404297
+
+Epoch: 70/1000
+Loss: 1.0660, Acc: 0.6478
+Train/Val/Test loss: 0.9361/0.9278/0.9567
+Train/Val/Test/Best val/Best test acc: 0.6888/0.6920/0.6827/0.6920/0.6827
+
+Starting Epoch  71
+Epoch run-time  6.0926194190979
+Starting Epoch  72
+Epoch run-time  6.008771896362305
+Starting Epoch  73
+Epoch run-time  6.148062467575073
+Starting Epoch  74
+Epoch run-time  6.0271382331848145
+Starting Epoch  75
+Epoch run-time  6.195427656173706
+Starting Epoch  76
+Epoch run-time  6.167149305343628
+Starting Epoch  77
+Epoch run-time  6.045565843582153
+Starting Epoch  78
+Epoch run-time  6.128034353256226
+Starting Epoch  79
+Epoch run-time  6.052208423614502
+Starting Epoch  80
+Epoch run-time  6.085764646530151
+
+Epoch: 80/1000
+Loss: 1.0506, Acc: 0.6573
+Train/Val/Test loss: 0.9354/0.9644/1.0359
+Train/Val/Test/Best val/Best test acc: 0.6880/0.6729/0.6449/0.6899/0.6892
+
+Starting Epoch  81
+Epoch run-time  6.127659320831299
+Starting Epoch  82
+Epoch run-time  5.962512731552124
+Starting Epoch  83
+Epoch run-time  6.197645425796509
+Starting Epoch  84
+Epoch run-time  6.549164533615112
+Starting Epoch  85
+Epoch run-time  5.976321458816528
+Starting Epoch  86
+Epoch run-time  5.97487735748291
+Starting Epoch  87
+Epoch run-time  6.18746542930603
+Starting Epoch  88
+Epoch run-time  6.062856674194336
+Starting Epoch  89
+Epoch run-time  5.939731121063232
+Starting Epoch  90
+Epoch run-time  6.193694353103638
+
+Epoch: 90/1000
+Loss: 1.0189, Acc: 0.6627
+Train/Val/Test loss: 0.9363/1.0099/1.1150
+Train/Val/Test/Best val/Best test acc: 0.6876/0.6548/0.6126/0.6899/0.6892
+
+Starting Epoch  91
+Epoch run-time  5.935715675354004
+Starting Epoch  92
+Epoch run-time  5.969851970672607
+Starting Epoch  93
+Epoch run-time  6.875862121582031
+Starting Epoch  94
+Epoch run-time  5.962774038314819
+Starting Epoch  95
+Epoch run-time  6.109511613845825
+Starting Epoch  96
+Epoch run-time  7.004001140594482
+Starting Epoch  97
+Epoch run-time  5.972536325454712
+Starting Epoch  98
+Epoch run-time  5.933254718780518
+Starting Epoch  99
+Epoch run-time  5.867843866348267
+Starting Epoch  100
+Epoch run-time  6.01332426071167
+
+Epoch: 100/1000
+Loss: 1.0232, Acc: 0.6646
+Train/Val/Test loss: 0.8982/0.9223/0.9907
+Train/Val/Test/Best val/Best test acc: 0.7016/0.6883/0.6598/0.6941/0.6962
+
+Starting Epoch  101
+Epoch run-time  6.055581569671631
+Starting Epoch  102
+Epoch run-time  6.065674066543579
+Starting Epoch  103
+Epoch run-time  6.21518349647522
+Starting Epoch  104
+Epoch run-time  5.886462688446045
+Starting Epoch  105
+Epoch run-time  10.931859254837036
+Starting Epoch  106
+Epoch run-time  6.176948308944702
+Starting Epoch  107
+Epoch run-time  6.001349925994873
+Starting Epoch  108
+Epoch run-time  6.459800481796265
+Starting Epoch  109
+Epoch run-time  5.943724155426025
+Starting Epoch  110
+Epoch run-time  6.070217847824097
+
+Epoch: 110/1000
+Loss: 1.0116, Acc: 0.6675
+Train/Val/Test loss: 0.9170/0.9624/1.0547
+Train/Val/Test/Best val/Best test acc: 0.6942/0.6691/0.6339/0.7041/0.7057
+
+Starting Epoch  111
+Epoch run-time  6.97022008895874
+Starting Epoch  112
+Epoch run-time  6.1531383991241455
+Starting Epoch  113
+Epoch run-time  5.992192506790161
+Starting Epoch  114
+Epoch run-time  5.928494215011597
+Starting Epoch  115
+Epoch run-time  6.990900754928589
+Starting Epoch  116
+Epoch run-time  5.9926745891571045
+Starting Epoch  117
+Epoch run-time  6.09494686126709
+Starting Epoch  118
+Epoch run-time  5.9556896686553955
+Starting Epoch  119
+Epoch run-time  5.936557054519653
+Starting Epoch  120
+Epoch run-time  5.980421304702759
+
+Epoch: 120/1000
+Loss: 0.9900, Acc: 0.6727
+Train/Val/Test loss: 0.8762/0.9031/0.9755
+Train/Val/Test/Best val/Best test acc: 0.7095/0.6953/0.6664/0.7041/0.7057
+
+Starting Epoch  121
+Epoch run-time  5.964439153671265
+Starting Epoch  122
+Epoch run-time  6.890620708465576
+Starting Epoch  123
+Epoch run-time  6.053556203842163
+Starting Epoch  124
+Epoch run-time  6.133975505828857
+Starting Epoch  125
+Epoch run-time  5.9182562828063965
+Starting Epoch  126
+Epoch run-time  6.059479475021362
+Starting Epoch  127
+Epoch run-time  6.052222490310669
+Starting Epoch  128
+Epoch run-time  7.0178632736206055
+Starting Epoch  129
+Epoch run-time  6.022395849227905
+Starting Epoch  130
+Epoch run-time  5.972415447235107
+
+Epoch: 130/1000
+Loss: 0.9851, Acc: 0.6770
+Train/Val/Test loss: 0.8820/0.9299/1.0034
+Train/Val/Test/Best val/Best test acc: 0.7079/0.6842/0.6546/0.7109/0.7079
+
+Starting Epoch  131
+Epoch run-time  6.0152764320373535
+Starting Epoch  132
+Epoch run-time  5.988932847976685
+Starting Epoch  133
+Epoch run-time  6.578927040100098
+Starting Epoch  134
+Epoch run-time  6.7450666427612305
+Starting Epoch  135
+Epoch run-time  5.960222482681274
+Starting Epoch  136
+Epoch run-time  5.937639474868774
+Starting Epoch  137
+Epoch run-time  6.075545310974121
+Starting Epoch  138
+Epoch run-time  6.6997106075286865
+Starting Epoch  139
+Epoch run-time  6.05224609375
+Starting Epoch  140
+Epoch run-time  5.924084901809692
+
+Epoch: 140/1000
+Loss: 0.9829, Acc: 0.6764
+Train/Val/Test loss: 0.8823/0.9118/0.9919
+Train/Val/Test/Best val/Best test acc: 0.7067/0.6917/0.6589/0.7109/0.7079
+
+Starting Epoch  141
+Epoch run-time  5.988421440124512
+Starting Epoch  142
+Epoch run-time  5.998902797698975
+Starting Epoch  143
+Epoch run-time  7.044662237167358
+Starting Epoch  144
+Epoch run-time  5.92997407913208
+Starting Epoch  145
+Epoch run-time  6.03098464012146
+Starting Epoch  146
+Epoch run-time  6.069342613220215
+Starting Epoch  147
+Epoch run-time  6.033429384231567
+Starting Epoch  148
+Epoch run-time  6.054473876953125
+Starting Epoch  149
+Epoch run-time  5.986855506896973
+Starting Epoch  150
+Epoch run-time  6.078981161117554
+
+Epoch: 150/1000
+Loss: 0.9614, Acc: 0.6810
+Train/Val/Test loss: 0.8762/0.9430/1.0433
+Train/Val/Test/Best val/Best test acc: 0.7094/0.6781/0.6364/0.7125/0.7109
+
+Starting Epoch  151
+Epoch run-time  5.955470085144043
+Starting Epoch  152
+Epoch run-time  6.789172887802124
+Starting Epoch  153
+Epoch run-time  6.0422773361206055
+Starting Epoch  154
+Epoch run-time  6.032657146453857
+Starting Epoch  155
+Epoch run-time  5.955918312072754
+Starting Epoch  156
+Epoch run-time  5.935989856719971
+Starting Epoch  157
+Epoch run-time  5.918701648712158
+Starting Epoch  158
+Epoch run-time  6.637303590774536
+Starting Epoch  159
+Epoch run-time  6.070868730545044
+Starting Epoch  160
+Epoch run-time  6.042813539505005
+
+Epoch: 160/1000
+Loss: 0.9711, Acc: 0.6807
+Train/Val/Test loss: 0.8553/0.8730/0.9304
+Train/Val/Test/Best val/Best test acc: 0.7169/0.7062/0.6829/0.7121/0.7101
+
+Starting Epoch  161
+Epoch run-time  5.971453905105591
+Starting Epoch  162
+Epoch run-time  6.395540952682495
+Starting Epoch  163
+Epoch run-time  6.031610727310181
+Starting Epoch  164
+Epoch run-time  6.045224905014038
+Starting Epoch  165
+Epoch run-time  5.980612277984619
+Starting Epoch  166
+Epoch run-time  6.118237733840942
+Starting Epoch  167
+Epoch run-time  6.105426549911499
+Starting Epoch  168
+Epoch run-time  6.135775327682495
+Starting Epoch  169
+Epoch run-time  6.757639646530151
+Starting Epoch  170
+Epoch run-time  6.043698310852051
+
+Epoch: 170/1000
+Loss: 0.9447, Acc: 0.6886
+Train/Val/Test loss: 0.8377/0.8417/0.8698
+Train/Val/Test/Best val/Best test acc: 0.7219/0.7191/0.7067/0.7191/0.7067
+
+Starting Epoch  171
+Epoch run-time  6.1182026863098145
+Starting Epoch  172
+Epoch run-time  5.903294324874878
+Starting Epoch  173
+Epoch run-time  6.005583763122559
+Starting Epoch  174
+Epoch run-time  6.025153398513794
+Starting Epoch  175
+Epoch run-time  6.020217657089233
+Starting Epoch  176
+Epoch run-time  6.026479482650757
+Starting Epoch  177
+Epoch run-time  6.081538915634155
+Starting Epoch  178
+Epoch run-time  6.631443738937378
+Starting Epoch  179
+Epoch run-time  5.970486164093018
+Starting Epoch  180
+Epoch run-time  5.8126935958862305
+
+Epoch: 180/1000
+Loss: 0.9610, Acc: 0.6841
+Train/Val/Test loss: 0.8759/0.9319/1.0182
+Train/Val/Test/Best val/Best test acc: 0.7092/0.6825/0.6497/0.7191/0.7067
+
+Starting Epoch  181
+Epoch run-time  5.89627480506897
+Starting Epoch  182
+Epoch run-time  6.1019206047058105
+Starting Epoch  183
+Epoch run-time  6.004640579223633
+Starting Epoch  184
+Epoch run-time  6.285648822784424
+Starting Epoch  185
+Epoch run-time  6.169314861297607
+Starting Epoch  186
+Epoch run-time  6.063807964324951
+Starting Epoch  187
+Epoch run-time  6.9238786697387695
+Starting Epoch  188
+Epoch run-time  6.068466901779175
+Starting Epoch  189
+Epoch run-time  5.962050437927246
+Starting Epoch  190
+Epoch run-time  6.096426963806152
+
+Epoch: 190/1000
+Loss: 0.9538, Acc: 0.6868
+Train/Val/Test loss: 0.8349/0.8473/0.8880
+Train/Val/Test/Best val/Best test acc: 0.7224/0.7158/0.7011/0.7177/0.7109
+
+Starting Epoch  191
+Epoch run-time  6.83433985710144
+Starting Epoch  192
+Epoch run-time  5.877211093902588
+Starting Epoch  193
+Epoch run-time  6.061891794204712
+Starting Epoch  194
+Epoch run-time  6.027398347854614
+Starting Epoch  195
+Epoch run-time  6.755093336105347
+Starting Epoch  196
+Epoch run-time  6.02331280708313
+Starting Epoch  197
+Epoch run-time  5.8844804763793945
+Starting Epoch  198
+Epoch run-time  5.979654788970947
+Starting Epoch  199
+Epoch run-time  5.915371894836426
+Starting Epoch  200
+Epoch run-time  6.802128791809082
+
+Epoch: 200/1000
+Loss: 0.9458, Acc: 0.6892
+Train/Val/Test loss: 0.8525/0.8906/0.9463
+Train/Val/Test/Best val/Best test acc: 0.7165/0.6993/0.6809/0.7177/0.7109
+
+Starting Epoch  201
+Epoch run-time  6.144605875015259
+Starting Epoch  202
+Epoch run-time  6.077209949493408
+Starting Epoch  203
+Epoch run-time  6.151479959487915
+Starting Epoch  204
+Epoch run-time  6.098837375640869
+Starting Epoch  205
+Epoch run-time  5.950684309005737
+Starting Epoch  206
+Epoch run-time  5.984706401824951
+Starting Epoch  207
+Epoch run-time  6.0492236614227295
+Starting Epoch  208
+Epoch run-time  5.964796781539917
+Starting Epoch  209
+Epoch run-time  6.010281085968018
+Starting Epoch  210
+Epoch run-time  6.091013431549072
+
+Epoch: 210/1000
+Loss: 0.9437, Acc: 0.6894
+Train/Val/Test loss: 0.8621/0.8950/0.9097
+Train/Val/Test/Best val/Best test acc: 0.7140/0.7003/0.6943/0.7177/0.7109
+
+Starting Epoch  211
+Epoch run-time  5.907699108123779
+Starting Epoch  212
+Epoch run-time  6.087018251419067
+Starting Epoch  213
+Epoch run-time  6.030205965042114
+Starting Epoch  214
+Epoch run-time  5.984428882598877
+Starting Epoch  215
+Epoch run-time  6.4128053188323975
+Starting Epoch  216
+Epoch run-time  6.15996241569519
+Starting Epoch  217
+Epoch run-time  5.9720542430877686
+Starting Epoch  218
+Epoch run-time  6.066136837005615
+Starting Epoch  219
+Epoch run-time  6.074656009674072
+Starting Epoch  220
+Epoch run-time  5.967895269393921
+
+Epoch: 220/1000
+Loss: 0.9350, Acc: 0.6917
+Train/Val/Test loss: 0.8579/0.9230/1.0195
+Train/Val/Test/Best val/Best test acc: 0.7145/0.6839/0.6455/0.7207/0.7141
+
+Starting Epoch  221
+Epoch run-time  6.000246047973633
+Starting Epoch  222
+Epoch run-time  5.991884708404541
+Starting Epoch  223
+Epoch run-time  5.93909764289856
+Starting Epoch  224
+Epoch run-time  6.009911298751831
+Starting Epoch  225
+Epoch run-time  6.041644811630249
+Starting Epoch  226
+Epoch run-time  5.981939077377319
+Starting Epoch  227
+Epoch run-time  6.140277862548828
+Starting Epoch  228
+Epoch run-time  6.089984178543091
+Starting Epoch  229
+Epoch run-time  6.019554138183594
+Starting Epoch  230
+Epoch run-time  5.925579071044922
+
+Epoch: 230/1000
+Loss: 0.9270, Acc: 0.6969
+Train/Val/Test loss: 0.8227/0.8549/0.9198
+Train/Val/Test/Best val/Best test acc: 0.7270/0.7125/0.6855/0.7207/0.7141
+
+Starting Epoch  231
+Epoch run-time  5.98445463180542
+Starting Epoch  232
+Epoch run-time  6.091186285018921
+Starting Epoch  233
+Epoch run-time  6.039981126785278
+Starting Epoch  234
+Epoch run-time  6.02416205406189
+Starting Epoch  235
+Epoch run-time  6.083862066268921
+Starting Epoch  236
+Epoch run-time  6.06052565574646
+Starting Epoch  237
+Epoch run-time  6.062845706939697
+Starting Epoch  238
+Epoch run-time  6.0860631465911865
+Starting Epoch  239
+Epoch run-time  6.129024982452393
+Starting Epoch  240
+Epoch run-time  6.139323949813843
+
+Epoch: 240/1000
+Loss: 0.9203, Acc: 0.6949
+Train/Val/Test loss: 0.8332/0.8897/0.9670
+Train/Val/Test/Best val/Best test acc: 0.7238/0.6996/0.6693/0.7207/0.7141
+
+Starting Epoch  241
+Epoch run-time  6.9268293380737305
+Starting Epoch  242
+Epoch run-time  6.007530927658081
+Starting Epoch  243
+Epoch run-time  5.953879117965698
+Starting Epoch  244
+Epoch run-time  6.015073776245117
+Starting Epoch  245
+Epoch run-time  6.0321948528289795
+Starting Epoch  246
+Epoch run-time  6.564503192901611
+Starting Epoch  247
+Epoch run-time  6.882004261016846
+Starting Epoch  248
+Epoch run-time  6.382067918777466
+Starting Epoch  249
+Epoch run-time  6.076128959655762
+Starting Epoch  250
+Epoch run-time  6.090040922164917
+
+Epoch: 250/1000
+Loss: 0.9313, Acc: 0.6915
+Train/Val/Test loss: 0.8632/0.9050/0.9879
+Train/Val/Test/Best val/Best test acc: 0.7130/0.6914/0.6591/0.7216/0.7157
+
+Starting Epoch  251
+Epoch run-time  5.990401029586792
+Starting Epoch  252
+Epoch run-time  6.656903028488159
+Starting Epoch  253
+Epoch run-time  6.035703420639038
+Starting Epoch  254
+Epoch run-time  6.067648887634277
+Starting Epoch  255
+Epoch run-time  5.90338659286499
+Starting Epoch  256
+Epoch run-time  6.0073912143707275
+Starting Epoch  257
+Epoch run-time  5.99803614616394
+Starting Epoch  258
+Epoch run-time  7.104297161102295
+Starting Epoch  259
+Epoch run-time  5.973450183868408
+Starting Epoch  260
+Epoch run-time  5.898176431655884
+
+Epoch: 260/1000
+Loss: 0.9101, Acc: 0.7006
+Train/Val/Test loss: 0.8454/0.9339/1.0320
+Train/Val/Test/Best val/Best test acc: 0.7200/0.6834/0.6455/0.7216/0.7157
+
+Starting Epoch  261
+Epoch run-time  6.138169765472412
+Starting Epoch  262
+Epoch run-time  6.114978313446045
+Starting Epoch  263
+Epoch run-time  5.905506372451782
+Starting Epoch  264
+Epoch run-time  5.995516538619995
+Starting Epoch  265
+Epoch run-time  6.1861183643341064
+Starting Epoch  266
+Epoch run-time  6.302365064620972
+Starting Epoch  267
+Epoch run-time  6.040714263916016
+Starting Epoch  268
+Epoch run-time  6.173364162445068
+Starting Epoch  269
+Epoch run-time  6.065319776535034
+Starting Epoch  270
+Epoch run-time  6.090059041976929
+
+Epoch: 270/1000
+Loss: 0.9178, Acc: 0.6971
+Train/Val/Test loss: 0.8328/0.8945/0.9752
+Train/Val/Test/Best val/Best test acc: 0.7240/0.6957/0.6651/0.7216/0.7157
+
+Starting Epoch  271
+Epoch run-time  6.39659857749939
+Starting Epoch  272
+Epoch run-time  6.042027235031128
+Starting Epoch  273
+Epoch run-time  6.079536199569702
+Starting Epoch  274
+Epoch run-time  6.0882408618927
+Starting Epoch  275
+Epoch run-time  5.947673559188843
+Starting Epoch  276
+Epoch run-time  6.6691272258758545
+Starting Epoch  277
+Epoch run-time  6.131193161010742
+Starting Epoch  278
+Epoch run-time  5.9868223667144775
+Starting Epoch  279
+Epoch run-time  5.891226053237915
+Starting Epoch  280
+Epoch run-time  6.008236408233643
+
+Epoch: 280/1000
+Loss: 0.9238, Acc: 0.6987
+Train/Val/Test loss: 0.8124/0.8253/0.8443
+Train/Val/Test/Best val/Best test acc: 0.7301/0.7228/0.7157/0.7228/0.7157
+
+Starting Epoch  281
+Epoch run-time  5.981625080108643
+Starting Epoch  282
+Epoch run-time  6.387316465377808
+Starting Epoch  283
+Epoch run-time  5.943300724029541
+Starting Epoch  284
+Epoch run-time  6.0454747676849365
+Starting Epoch  285
+Epoch run-time  6.0327746868133545
+Starting Epoch  286
+Epoch run-time  5.949417591094971
+Starting Epoch  287
+Epoch run-time  6.080843210220337
+Starting Epoch  288
+Epoch run-time  6.01009726524353
+Starting Epoch  289
+Epoch run-time  5.984407901763916
+Starting Epoch  290
+Epoch run-time  5.8959739208221436
+
+Epoch: 290/1000
+Loss: 0.9171, Acc: 0.6991
+Train/Val/Test loss: 0.8310/0.8413/0.8375
+Train/Val/Test/Best val/Best test acc: 0.7240/0.7157/0.7156/0.7237/0.7167
+
+Starting Epoch  291
+Epoch run-time  6.066309690475464
+Starting Epoch  292
+Epoch run-time  6.089754819869995
+Starting Epoch  293
+Epoch run-time  6.010291814804077
+Starting Epoch  294
+Epoch run-time  6.044543743133545
+Starting Epoch  295
+Epoch run-time  5.95320725440979
+Starting Epoch  296
+Epoch run-time  5.955873250961304
+Starting Epoch  297
+Epoch run-time  5.8822643756866455
+Starting Epoch  298
+Epoch run-time  5.918729782104492
+Starting Epoch  299
+Epoch run-time  5.95921516418457
+Starting Epoch  300
+Epoch run-time  6.164647340774536
+
+Epoch: 300/1000
+Loss: 0.9173, Acc: 0.6978
+Train/Val/Test loss: 0.8358/0.8517/0.8486
+Train/Val/Test/Best val/Best test acc: 0.7220/0.7125/0.7114/0.7237/0.7167
+
+Starting Epoch  301
+Epoch run-time  5.970960855484009
+Starting Epoch  302
+Epoch run-time  6.045516490936279
+Starting Epoch  303
+Epoch run-time  6.015409231185913
+Starting Epoch  304
+Epoch run-time  6.0431060791015625
+Starting Epoch  305
+Epoch run-time  6.175948143005371
+Starting Epoch  306
+Epoch run-time  5.987950563430786
+Starting Epoch  307
+Epoch run-time  6.049288988113403
+Starting Epoch  308
+Epoch run-time  6.143814563751221
+Starting Epoch  309
+Epoch run-time  6.168574571609497
+Starting Epoch  310
+Epoch run-time  6.070937871932983
+
+Epoch: 310/1000
+Loss: 0.9052, Acc: 0.6985
+Train/Val/Test loss: 0.8224/0.8419/0.8611
+Train/Val/Test/Best val/Best test acc: 0.7276/0.7172/0.7096/0.7237/0.7167
+
+Starting Epoch  311
+Epoch run-time  6.044335603713989
+Starting Epoch  312
+Epoch run-time  6.025719881057739
+Starting Epoch  313
+Epoch run-time  5.968659400939941
+Starting Epoch  314
+Epoch run-time  6.0717527866363525
+Starting Epoch  315
+Epoch run-time  6.12920069694519
+Starting Epoch  316
+Epoch run-time  5.979209899902344
+Starting Epoch  317
+Epoch run-time  6.683907747268677
+Starting Epoch  318
+Epoch run-time  6.011152267456055
+Starting Epoch  319
+Epoch run-time  5.920616149902344
+Starting Epoch  320
+Epoch run-time  6.0261125564575195
+
+Epoch: 320/1000
+Loss: 0.9149, Acc: 0.7005
+Train/Val/Test loss: 0.8266/0.8913/0.9796
+Train/Val/Test/Best val/Best test acc: 0.7258/0.6968/0.6621/0.7244/0.7178
+
+Starting Epoch  321
+Epoch run-time  6.070179224014282
+Starting Epoch  322
+Epoch run-time  6.253714323043823
+Starting Epoch  323
+Epoch run-time  6.195091009140015
+Starting Epoch  324
+Epoch run-time  6.0530736446380615
+Starting Epoch  325
+Epoch run-time  6.09470272064209
+Starting Epoch  326
+Epoch run-time  5.986719608306885
+Starting Epoch  327
+Epoch run-time  6.118980884552002
+Starting Epoch  328
+Epoch run-time  6.193353176116943
+Starting Epoch  329
+Epoch run-time  6.170414924621582
+Starting Epoch  330
+Epoch run-time  6.308404922485352
+
+Epoch: 330/1000
+Loss: 0.9117, Acc: 0.7029
+Train/Val/Test loss: 0.8074/0.8361/0.8808
+Train/Val/Test/Best val/Best test acc: 0.7330/0.7207/0.7034/0.7244/0.7178
+
+Starting Epoch  331
+Epoch run-time  5.872143745422363
+Starting Epoch  332
+Epoch run-time  5.900533199310303
+Starting Epoch  333
+Epoch run-time  6.102177143096924
+Starting Epoch  334
+Epoch run-time  6.934308290481567
+Starting Epoch  335
+Epoch run-time  6.101202487945557
+Starting Epoch  336
+Epoch run-time  6.135868787765503
+Starting Epoch  337
+Epoch run-time  5.874177694320679
+Starting Epoch  338
+Epoch run-time  6.007390975952148
+Starting Epoch  339
+Epoch run-time  5.935187339782715
+Starting Epoch  340
+Epoch run-time  6.004268407821655
+
+Epoch: 340/1000
+Loss: 0.9058, Acc: 0.7040
+Train/Val/Test loss: 0.7980/0.8240/0.8635
+Train/Val/Test/Best val/Best test acc: 0.7347/0.7237/0.7086/0.7244/0.7178
+
+Starting Epoch  341
+Epoch run-time  5.919571161270142
+Starting Epoch  342
+Epoch run-time  6.068727016448975
+Starting Epoch  343
+Epoch run-time  6.451344966888428
+Starting Epoch  344
+Epoch run-time  6.275664329528809
+Starting Epoch  345
+Epoch run-time  6.00624680519104
+Starting Epoch  346
+Epoch run-time  6.0037713050842285
+Starting Epoch  347
+Epoch run-time  6.0071258544921875
+Starting Epoch  348
+Epoch run-time  6.009003639221191
+Starting Epoch  349
+Epoch run-time  6.159440994262695
+Starting Epoch  350
+Epoch run-time  5.9714272022247314
+
+Epoch: 350/1000
+Loss: 0.8962, Acc: 0.7047
+Train/Val/Test loss: 0.8131/0.8521/0.9006
+Train/Val/Test/Best val/Best test acc: 0.7301/0.7130/0.6948/0.7244/0.7178
+
+Starting Epoch  351
+Epoch run-time  5.955589294433594
+Starting Epoch  352
+Epoch run-time  5.9639410972595215
+Starting Epoch  353
+Epoch run-time  5.932941436767578
+Starting Epoch  354
+Epoch run-time  5.996166944503784
+Starting Epoch  355
+Epoch run-time  5.947913408279419
+Starting Epoch  356
+Epoch run-time  5.893612623214722
+Starting Epoch  357
+Epoch run-time  6.032467603683472
+Starting Epoch  358
+Epoch run-time  6.836923837661743
+Starting Epoch  359
+Epoch run-time  6.046813726425171
+Starting Epoch  360
+Epoch run-time  5.974364280700684
+
+Epoch: 360/1000
+Loss: 0.9055, Acc: 0.7050
+Train/Val/Test loss: 0.8173/0.8415/0.8418
+Train/Val/Test/Best val/Best test acc: 0.7284/0.7149/0.7143/0.7244/0.7178
+
+Starting Epoch  361
+Epoch run-time  6.002608299255371
+Starting Epoch  362
+Epoch run-time  5.954513072967529
+Starting Epoch  363
+Epoch run-time  6.529432535171509
+Starting Epoch  364
+Epoch run-time  5.98216986656189
+Starting Epoch  365
+Epoch run-time  5.998624086380005
+Starting Epoch  366
+Epoch run-time  5.915882110595703
+Starting Epoch  367
+Epoch run-time  5.986300468444824
+Starting Epoch  368
+Epoch run-time  5.907916784286499
+Starting Epoch  369
+Epoch run-time  6.060300588607788
+Starting Epoch  370
+Epoch run-time  6.00076961517334
+
+Epoch: 370/1000
+Loss: 0.9044, Acc: 0.7015
+Train/Val/Test loss: 0.8116/0.8349/0.8393
+Train/Val/Test/Best val/Best test acc: 0.7300/0.7170/0.7145/0.7257/0.7214
+
+Starting Epoch  371
+Epoch run-time  6.0760579109191895
+Starting Epoch  372
+Epoch run-time  6.082632780075073
+Starting Epoch  373
+Epoch run-time  5.975651979446411
+Starting Epoch  374
+Epoch run-time  6.670470714569092
+Starting Epoch  375
+Epoch run-time  6.087519645690918
+Starting Epoch  376
+Epoch run-time  5.940340042114258
+Starting Epoch  377
+Epoch run-time  6.044924736022949
+Starting Epoch  378
+Epoch run-time  5.941740036010742
+Starting Epoch  379
+Epoch run-time  6.410338878631592
+Starting Epoch  380
+Epoch run-time  5.908129930496216
+
+Epoch: 380/1000
+Loss: 0.8971, Acc: 0.7056
+Train/Val/Test loss: 0.7880/0.8217/0.8584
+Train/Val/Test/Best val/Best test acc: 0.7376/0.7221/0.7085/0.7257/0.7214
+
+Starting Epoch  381
+Epoch run-time  6.07205057144165
+Starting Epoch  382
+Epoch run-time  5.99908709526062
+Starting Epoch  383
+Epoch run-time  5.942575931549072
+Starting Epoch  384
+Epoch run-time  6.043774843215942
+Starting Epoch  385
+Epoch run-time  6.062706470489502
+Starting Epoch  386
+Epoch run-time  5.9730448722839355
+Starting Epoch  387
+Epoch run-time  5.921898603439331
+Starting Epoch  388
+Epoch run-time  5.889493942260742
+Starting Epoch  389
+Epoch run-time  6.118247985839844
+Starting Epoch  390
+Epoch run-time  5.992324352264404
+
+Epoch: 390/1000
+Loss: 0.8897, Acc: 0.7071
+Train/Val/Test loss: 0.7923/0.8287/0.8789
+Train/Val/Test/Best val/Best test acc: 0.7361/0.7183/0.6998/0.7257/0.7214
+
+Starting Epoch  391
+Epoch run-time  6.694126605987549
+Starting Epoch  392
+Epoch run-time  6.437987804412842
+Starting Epoch  393
+Epoch run-time  5.986109733581543
+Starting Epoch  394
+Epoch run-time  6.121693134307861
+Starting Epoch  395
+Epoch run-time  5.963069915771484
+Starting Epoch  396
+Epoch run-time  5.90161919593811
+Starting Epoch  397
+Epoch run-time  6.1521897315979
+Starting Epoch  398
+Epoch run-time  6.045268535614014
+Starting Epoch  399
+Epoch run-time  6.081115961074829
+Starting Epoch  400
+Epoch run-time  6.861248254776001
+
+Epoch: 400/1000
+Loss: 0.9057, Acc: 0.7043
+Train/Val/Test loss: 0.8086/0.8782/0.9333
+Train/Val/Test/Best val/Best test acc: 0.7317/0.7025/0.6810/0.7257/0.7214
+
+Starting Epoch  401
+Epoch run-time  5.947293043136597
+Starting Epoch  402
+Epoch run-time  5.9263756275177
+Starting Epoch  403
+Epoch run-time  5.9047369956970215
+Starting Epoch  404
+Epoch run-time  5.984112977981567
+Starting Epoch  405
+Epoch run-time  6.042051076889038
+Starting Epoch  406
+Epoch run-time  6.491876840591431
+Starting Epoch  407
+Epoch run-time  6.234673261642456
+Starting Epoch  408
+Epoch run-time  5.981236457824707
+Starting Epoch  409
+Epoch run-time  6.009049654006958
+Starting Epoch  410
+Epoch run-time  5.961165428161621
+
+Epoch: 410/1000
+Loss: 0.8942, Acc: 0.7064
+Train/Val/Test loss: 0.7921/0.8572/0.9244
+Train/Val/Test/Best val/Best test acc: 0.7370/0.7088/0.6835/0.7257/0.7214
+
+Starting Epoch  411
+Epoch run-time  5.894603729248047
+Starting Epoch  412
+Epoch run-time  5.938355922698975
+Starting Epoch  413
+Epoch run-time  6.514347314834595
+Starting Epoch  414
+Epoch run-time  6.095221996307373
+Starting Epoch  415
+Epoch run-time  5.88193154335022
+Starting Epoch  416
+Epoch run-time  5.929932594299316
+Starting Epoch  417
+Epoch run-time  5.969838619232178
+Starting Epoch  418
+Epoch run-time  6.082742691040039
+Starting Epoch  419
+Epoch run-time  6.102840423583984
+Starting Epoch  420
+Epoch run-time  6.092559337615967
+
+Epoch: 420/1000
+Loss: 0.8907, Acc: 0.7048
+Train/Val/Test loss: 0.8034/0.8682/0.9453
+Train/Val/Test/Best val/Best test acc: 0.7332/0.7048/0.6760/0.7257/0.7214
+
+Starting Epoch  421
+Epoch run-time  6.133165121078491
+Starting Epoch  422
+Epoch run-time  6.878638505935669
+Starting Epoch  423
+Epoch run-time  6.126647233963013
+Starting Epoch  424
+Epoch run-time  6.012598752975464
+Starting Epoch  425
+Epoch run-time  6.1787919998168945
+Starting Epoch  426
+Epoch run-time  6.086064100265503
+Starting Epoch  427
+Epoch run-time  5.98280930519104
+Starting Epoch  428
+Epoch run-time  5.966470718383789
+Starting Epoch  429
+Epoch run-time  5.937741041183472
+Starting Epoch  430
+Epoch run-time  5.85235857963562
+
+Epoch: 430/1000
+Loss: 0.8816, Acc: 0.7092
+Train/Val/Test loss: 0.7829/0.8082/0.8321
+Train/Val/Test/Best val/Best test acc: 0.7409/0.7273/0.7195/0.7273/0.7195
+
+Starting Epoch  431
+Epoch run-time  6.122101306915283
+Starting Epoch  432
+Epoch run-time  6.128142356872559
+Starting Epoch  433
+Epoch run-time  5.986539602279663
+Starting Epoch  434
+Epoch run-time  5.961651563644409
+Starting Epoch  435
+Epoch run-time  6.010675430297852
+Starting Epoch  436
+Epoch run-time  6.048523664474487
+Starting Epoch  437
+Epoch run-time  6.238346338272095
+Starting Epoch  438
+Epoch run-time  6.153037071228027
+Starting Epoch  439
+Epoch run-time  5.976041555404663
+Starting Epoch  440
+Epoch run-time  6.4633893966674805
+
+Epoch: 440/1000
+Loss: 0.8864, Acc: 0.7083
+Train/Val/Test loss: 0.7787/0.8126/0.8450
+Train/Val/Test/Best val/Best test acc: 0.7415/0.7255/0.7124/0.7273/0.7195
+
+Starting Epoch  441
+Epoch run-time  6.0313355922698975
+Starting Epoch  442
+Epoch run-time  6.1419243812561035
+Starting Epoch  443
+Epoch run-time  6.01689600944519
+Starting Epoch  444
+Epoch run-time  5.939512729644775
+Starting Epoch  445
+Epoch run-time  5.953828573226929
+Starting Epoch  446
+Epoch run-time  5.927962779998779
+Starting Epoch  447
+Epoch run-time  5.936370372772217
+Starting Epoch  448
+Epoch run-time  5.964486360549927
+Starting Epoch  449
+Epoch run-time  6.086986064910889
+Starting Epoch  450
+Epoch run-time  6.054413318634033
+
+Epoch: 450/1000
+Loss: 0.9033, Acc: 0.7047
+Train/Val/Test loss: 0.8336/0.8770/0.8728
+Train/Val/Test/Best val/Best test acc: 0.7234/0.7020/0.7041/0.7273/0.7195
+
+Starting Epoch  451
+Epoch run-time  6.699547529220581
+Starting Epoch  452
+Epoch run-time  6.860766172409058
+Starting Epoch  453
+Epoch run-time  5.925701379776001
+Starting Epoch  454
+Epoch run-time  6.002682209014893
+Starting Epoch  455
+Epoch run-time  6.204245567321777
+Starting Epoch  456
+Epoch run-time  5.908596038818359
+Starting Epoch  457
+Epoch run-time  6.186016082763672
+Starting Epoch  458
+Epoch run-time  6.13091516494751
+Starting Epoch  459
+Epoch run-time  6.100919246673584
+Starting Epoch  460
+Epoch run-time  6.096761703491211
+
+Epoch: 460/1000
+Loss: 0.8866, Acc: 0.7092
+Train/Val/Test loss: 0.7878/0.8512/0.9219
+Train/Val/Test/Best val/Best test acc: 0.7390/0.7106/0.6838/0.7273/0.7195
+
+Starting Epoch  461
+Epoch run-time  5.995884418487549
+Starting Epoch  462
+Epoch run-time  5.8886559009552
+Starting Epoch  463
+Epoch run-time  5.948552846908569
+Starting Epoch  464
+Epoch run-time  6.641570568084717
+Starting Epoch  465
+Epoch run-time  5.937182188034058
+Starting Epoch  466
+Epoch run-time  6.009239673614502
+Starting Epoch  467
+Epoch run-time  6.143221855163574
+Starting Epoch  468
+Epoch run-time  5.939924240112305
+Starting Epoch  469
+Epoch run-time  6.089569091796875
+Starting Epoch  470
+Epoch run-time  5.942491292953491
+
+Epoch: 470/1000
+Loss: 0.8771, Acc: 0.7106
+Train/Val/Test loss: 0.7919/0.8698/0.9546
+Train/Val/Test/Best val/Best test acc: 0.7367/0.7026/0.6706/0.7283/0.7215
+
+Starting Epoch  471
+Epoch run-time  6.0840795040130615
+Starting Epoch  472
+Epoch run-time  6.0276198387146
+Starting Epoch  473
+Epoch run-time  6.1585469245910645
+Starting Epoch  474
+Epoch run-time  6.422691345214844
+Starting Epoch  475
+Epoch run-time  5.9853222370147705
+Starting Epoch  476
+Epoch run-time  6.184787273406982
+Starting Epoch  477
+Epoch run-time  6.069023847579956
+Starting Epoch  478
+Epoch run-time  5.960427522659302
+Starting Epoch  479
+Epoch run-time  6.0320656299591064
+Starting Epoch  480
+Epoch run-time  6.045181035995483
+
+Epoch: 480/1000
+Loss: 0.8809, Acc: 0.7068
+Train/Val/Test loss: 0.7952/0.8310/0.8759
+Train/Val/Test/Best val/Best test acc: 0.7369/0.7206/0.7028/0.7283/0.7215
+
+Starting Epoch  481
+Epoch run-time  5.953833103179932
+Starting Epoch  482
+Epoch run-time  6.10016942024231
+Starting Epoch  483
+Epoch run-time  6.0881781578063965
+Starting Epoch  484
+Epoch run-time  6.055652856826782
+Starting Epoch  485
+Epoch run-time  6.302229642868042
+Starting Epoch  486
+Epoch run-time  6.194642066955566
+Starting Epoch  487
+Epoch run-time  6.052602291107178
+Starting Epoch  488
+Epoch run-time  6.496087312698364
+Starting Epoch  489
+Epoch run-time  6.046835660934448
+Starting Epoch  490
+Epoch run-time  6.039636850357056
+
+Epoch: 490/1000
+Loss: 0.8749, Acc: 0.7130
+Train/Val/Test loss: 0.7703/0.8080/0.8431
+Train/Val/Test/Best val/Best test acc: 0.7447/0.7278/0.7134/0.7280/0.7176
+
+Starting Epoch  491
+Epoch run-time  6.0150511264801025
+Starting Epoch  492
+Epoch run-time  6.019549608230591
+Starting Epoch  493
+Epoch run-time  6.045771598815918
+Starting Epoch  494
+Epoch run-time  5.975351572036743
+Starting Epoch  495
+Epoch run-time  5.9805920124053955
+Starting Epoch  496
+Epoch run-time  5.9552161693573
+Starting Epoch  497
+Epoch run-time  6.097744464874268
+Starting Epoch  498
+Epoch run-time  5.918687582015991
+Starting Epoch  499
+Epoch run-time  6.045314311981201
+Starting Epoch  500
+Epoch run-time  6.168799638748169
+
+Epoch: 500/1000
+Loss: 0.8804, Acc: 0.7097
+Train/Val/Test loss: 0.8053/0.8369/0.8304
+Train/Val/Test/Best val/Best test acc: 0.7329/0.7159/0.7172/0.7294/0.7196
+
+Starting Epoch  501
+Epoch run-time  6.024472236633301
+Starting Epoch  502
+Epoch run-time  6.113276958465576
+Starting Epoch  503
+Epoch run-time  6.082872629165649
+Starting Epoch  504
+Epoch run-time  6.1159679889678955
+Starting Epoch  505
+Epoch run-time  5.979260683059692
+Starting Epoch  506
+Epoch run-time  5.970185995101929
+Starting Epoch  507
+Epoch run-time  5.977009534835815
+Starting Epoch  508
+Epoch run-time  5.961268663406372
+Starting Epoch  509
+Epoch run-time  5.9023284912109375
+Starting Epoch  510
+Epoch run-time  5.89417028427124
+
+Epoch: 510/1000
+Loss: 0.8638, Acc: 0.7138
+Train/Val/Test loss: 0.7848/0.8116/0.8371
+Train/Val/Test/Best val/Best test acc: 0.7400/0.7268/0.7166/0.7294/0.7196
+
+Starting Epoch  511
+Epoch run-time  6.030226945877075
+Starting Epoch  512
+Epoch run-time  6.048517227172852
+Starting Epoch  513
+Epoch run-time  6.035341739654541
+Starting Epoch  514
+Epoch run-time  6.422985792160034
+Starting Epoch  515
+Epoch run-time  5.936864614486694
+Starting Epoch  516
+Epoch run-time  6.030681371688843
+Starting Epoch  517
+Epoch run-time  6.02303409576416
+Starting Epoch  518
+Epoch run-time  6.053211212158203
+Starting Epoch  519
+Epoch run-time  6.087214708328247
+Starting Epoch  520
+Epoch run-time  6.055216073989868
+
+Epoch: 520/1000
+Loss: 0.8730, Acc: 0.7132
+Train/Val/Test loss: 0.7671/0.8033/0.8387
+Train/Val/Test/Best val/Best test acc: 0.7455/0.7292/0.7155/0.7294/0.7196
+
+Starting Epoch  521
+Epoch run-time  5.960700750350952
+Starting Epoch  522
+Epoch run-time  6.029957294464111
+Starting Epoch  523
+Epoch run-time  5.970396041870117
+Starting Epoch  524
+Epoch run-time  6.058355093002319
+Starting Epoch  525
+Epoch run-time  5.860719203948975
+Starting Epoch  526
+Epoch run-time  6.25958251953125
+Starting Epoch  527
+Epoch run-time  6.130810022354126
+Starting Epoch  528
+Epoch run-time  6.040744781494141
+Starting Epoch  529
+Epoch run-time  5.971233367919922
+Starting Epoch  530
+Epoch run-time  6.011208534240723
+
+Epoch: 530/1000
+Loss: 0.8823, Acc: 0.7118
+Train/Val/Test loss: 0.7840/0.8106/0.8361
+Train/Val/Test/Best val/Best test acc: 0.7398/0.7270/0.7173/0.7294/0.7196
+
+Starting Epoch  531
+Epoch run-time  6.101405620574951
+Starting Epoch  532
+Epoch run-time  5.9866368770599365
+Starting Epoch  533
+Epoch run-time  6.024726629257202
+Starting Epoch  534
+Epoch run-time  6.815560817718506
+Starting Epoch  535
+Epoch run-time  6.297282695770264
+Starting Epoch  536
+Epoch run-time  6.243799448013306
+Starting Epoch  537
+Epoch run-time  6.164713144302368
+Starting Epoch  538
+Epoch run-time  6.022732973098755
+Starting Epoch  539
+Epoch run-time  6.1748950481414795
+Starting Epoch  540
+Epoch run-time  6.067688703536987
+
+Epoch: 540/1000
+Loss: 0.8692, Acc: 0.7133
+Train/Val/Test loss: 0.7972/0.8849/0.9776
+Train/Val/Test/Best val/Best test acc: 0.7350/0.6969/0.6609/0.7294/0.7196
+
+Starting Epoch  541
+Epoch run-time  6.016614675521851
+Starting Epoch  542
+Epoch run-time  6.036103248596191
+Starting Epoch  543
+Epoch run-time  6.038945436477661
+Starting Epoch  544
+Epoch run-time  6.062280893325806
+Starting Epoch  545
+Epoch run-time  5.958123207092285
+Starting Epoch  546
+Epoch run-time  6.0374956130981445
+Starting Epoch  547
+Epoch run-time  6.202944040298462
+Starting Epoch  548
+Epoch run-time  6.0226287841796875
+Starting Epoch  549
+Epoch run-time  5.94795560836792
+Starting Epoch  550
+Epoch run-time  5.958655834197998
+
+Epoch: 550/1000
+Loss: 0.8770, Acc: 0.7136
+Train/Val/Test loss: 0.7744/0.8468/0.9166
+Train/Val/Test/Best val/Best test acc: 0.7430/0.7124/0.6839/0.7294/0.7196
+
+Starting Epoch  551
+Epoch run-time  6.250147104263306
+Starting Epoch  552
+Epoch run-time  6.064995288848877
+Starting Epoch  553
+Epoch run-time  6.062092065811157
+Starting Epoch  554
+Epoch run-time  5.962382555007935
+Starting Epoch  555
+Epoch run-time  5.909017562866211
+Starting Epoch  556
+Epoch run-time  6.57908821105957
+Starting Epoch  557
+Epoch run-time  6.037309646606445
+Starting Epoch  558
+Epoch run-time  6.029873609542847
+Starting Epoch  559
+Epoch run-time  5.942323207855225
+Starting Epoch  560
+Epoch run-time  6.00372838973999
+
+Epoch: 560/1000
+Loss: 0.8719, Acc: 0.7120
+Train/Val/Test loss: 0.7838/0.8692/0.9462
+Train/Val/Test/Best val/Best test acc: 0.7396/0.7056/0.6736/0.7294/0.7196
+
+Starting Epoch  561
+Epoch run-time  5.910736799240112
+Starting Epoch  562
+Epoch run-time  6.7764892578125
+Starting Epoch  563
+Epoch run-time  5.936309337615967
+Starting Epoch  564
+Epoch run-time  5.970787763595581
+Starting Epoch  565
+Epoch run-time  5.956279277801514
+Starting Epoch  566
+Epoch run-time  6.097750425338745
+Starting Epoch  567
+Epoch run-time  5.935821533203125
+Starting Epoch  568
+Epoch run-time  5.840554475784302
+Starting Epoch  569
+Epoch run-time  6.002148389816284
+Starting Epoch  570
+Epoch run-time  6.17274284362793
+
+Epoch: 570/1000
+Loss: 0.8659, Acc: 0.7144
+Train/Val/Test loss: 0.7736/0.8534/0.9326
+Train/Val/Test/Best val/Best test acc: 0.7433/0.7085/0.6780/0.7294/0.7196
+
+Starting Epoch  571
+Epoch run-time  6.118975877761841
+Starting Epoch  572
+Epoch run-time  6.027996063232422
+Starting Epoch  573
+Epoch run-time  6.164294242858887
+Starting Epoch  574
+Epoch run-time  6.077949047088623
+Starting Epoch  575
+Epoch run-time  6.035099983215332
+Starting Epoch  576
+Epoch run-time  6.089739799499512
+Starting Epoch  577
+Epoch run-time  5.930911064147949
+Starting Epoch  578
+Epoch run-time  6.247145414352417
+Starting Epoch  579
+Epoch run-time  6.041113615036011
+Starting Epoch  580
+Epoch run-time  6.208946943283081
+
+Epoch: 580/1000
+Loss: 0.8622, Acc: 0.7159
+Train/Val/Test loss: 0.7804/0.8544/0.9296
+Train/Val/Test/Best val/Best test acc: 0.7412/0.7072/0.6784/0.7294/0.7196
+
+Starting Epoch  581
+Epoch run-time  6.055442571640015
+Starting Epoch  582
+Epoch run-time  6.485395669937134
+Starting Epoch  583
+Epoch run-time  6.090101718902588
+Starting Epoch  584
+Epoch run-time  6.085105657577515
+Starting Epoch  585
+Epoch run-time  5.956635475158691
+Starting Epoch  586
+Epoch run-time  6.025950193405151
+Starting Epoch  587
+Epoch run-time  6.186959505081177
+Starting Epoch  588
+Epoch run-time  5.904893636703491
+Starting Epoch  589
+Epoch run-time  6.186248064041138
+Starting Epoch  590
+Epoch run-time  5.945451021194458
+
+Epoch: 590/1000
+Loss: 0.8669, Acc: 0.7142
+Train/Val/Test loss: 0.7637/0.8169/0.8663
+Train/Val/Test/Best val/Best test acc: 0.7464/0.7237/0.7037/0.7294/0.7196
+
+Starting Epoch  591
+Epoch run-time  6.319866418838501
+Starting Epoch  592
+Epoch run-time  6.253622055053711
+Starting Epoch  593
+Epoch run-time  6.1541619300842285
+Starting Epoch  594
+Epoch run-time  6.9548773765563965
+Starting Epoch  595
+Epoch run-time  5.965914249420166
+Starting Epoch  596
+Epoch run-time  6.013171195983887
+Starting Epoch  597
+Epoch run-time  6.093712091445923
+Starting Epoch  598
+Epoch run-time  6.045209884643555
+Starting Epoch  599
+Epoch run-time  6.132976531982422
+Starting Epoch  600
+Epoch run-time  5.941762924194336
+
+Epoch: 600/1000
+Loss: 0.8805, Acc: 0.7116
+Train/Val/Test loss: 0.7801/0.8330/0.8960
+Train/Val/Test/Best val/Best test acc: 0.7417/0.7187/0.6944/0.7315/0.7187
+
+Starting Epoch  601
+Epoch run-time  6.111923694610596
+Starting Epoch  602
+Epoch run-time  6.065290212631226
+Starting Epoch  603
+Epoch run-time  6.398885726928711
+Starting Epoch  604
+Epoch run-time  5.9986045360565186
+Starting Epoch  605
+Epoch run-time  6.033895969390869
+Starting Epoch  606
+Epoch run-time  5.981895923614502
+Starting Epoch  607
+Epoch run-time  6.205965518951416
+Starting Epoch  608
+Epoch run-time  6.013272047042847
+Starting Epoch  609
+Epoch run-time  6.6374192237854
+Starting Epoch  610
+Epoch run-time  6.024626970291138
+
+Epoch: 610/1000
+Loss: 0.8663, Acc: 0.7148
+Train/Val/Test loss: 0.7681/0.8435/0.9131
+Train/Val/Test/Best val/Best test acc: 0.7449/0.7124/0.6871/0.7315/0.7187
+
+Starting Epoch  611
+Epoch run-time  6.053510665893555
+Starting Epoch  612
+Epoch run-time  6.292536020278931
+Starting Epoch  613
+Epoch run-time  6.033797264099121
+Starting Epoch  614
+Epoch run-time  6.060625791549683
+Starting Epoch  615
+Epoch run-time  5.947799921035767
+Starting Epoch  616
+Epoch run-time  5.9095354080200195
+Starting Epoch  617
+Epoch run-time  5.874563455581665
+Starting Epoch  618
+Epoch run-time  5.986993789672852
+Starting Epoch  619
+Epoch run-time  5.90323543548584
+Starting Epoch  620
+Epoch run-time  6.142695665359497
+
+Epoch: 620/1000
+Loss: 0.8580, Acc: 0.7155
+Train/Val/Test loss: 0.7604/0.8178/0.8796
+Train/Val/Test/Best val/Best test acc: 0.7471/0.7226/0.7004/0.7315/0.7187
+
+Starting Epoch  621
+Epoch run-time  6.147902250289917
+Starting Epoch  622
+Epoch run-time  6.066623687744141
+Starting Epoch  623
+Epoch run-time  6.742105722427368
+Starting Epoch  624
+Epoch run-time  5.990118980407715
+Starting Epoch  625
+Epoch run-time  5.967878580093384
+Starting Epoch  626
+Epoch run-time  5.909167528152466
+Starting Epoch  627
+Epoch run-time  6.731558322906494
+Starting Epoch  628
+Epoch run-time  6.090771675109863
+Starting Epoch  629
+Epoch run-time  6.071665287017822
+Starting Epoch  630
+Epoch run-time  6.051804542541504
+
+Epoch: 630/1000
+Loss: 0.8628, Acc: 0.7159
+Train/Val/Test loss: 0.7906/0.8360/0.8294
+Train/Val/Test/Best val/Best test acc: 0.7379/0.7165/0.7173/0.7320/0.7234
+
+Starting Epoch  631
+Epoch run-time  6.040809631347656
+Starting Epoch  632
+Epoch run-time  5.9735167026519775
+Starting Epoch  633
+Epoch run-time  7.249622344970703
+Starting Epoch  634
+Epoch run-time  5.985897779464722
+Starting Epoch  635
+Epoch run-time  6.148334264755249
+Starting Epoch  636
+Epoch run-time  6.053570985794067
+Starting Epoch  637
+Epoch run-time  6.100345849990845
+Starting Epoch  638
+Epoch run-time  6.021435022354126
+Starting Epoch  639
+Epoch run-time  5.885679483413696
+Starting Epoch  640
+Epoch run-time  5.895712375640869
+
+Epoch: 640/1000
+Loss: 0.8766, Acc: 0.7158
+Train/Val/Test loss: 0.7697/0.8085/0.8310
+Train/Val/Test/Best val/Best test acc: 0.7445/0.7279/0.7207/0.7320/0.7234
+
+Starting Epoch  641
+Epoch run-time  5.947280406951904
+Starting Epoch  642
+Epoch run-time  5.997213840484619
+Starting Epoch  643
+Epoch run-time  6.0011138916015625
+Starting Epoch  644
+Epoch run-time  6.161431312561035
+Starting Epoch  645
+Epoch run-time  6.457796573638916
+Starting Epoch  646
+Epoch run-time  6.143129348754883
+Starting Epoch  647
+Epoch run-time  5.984039306640625
+Starting Epoch  648
+Epoch run-time  5.944080352783203
+Starting Epoch  649
+Epoch run-time  6.025913238525391
+Starting Epoch  650
+Epoch run-time  5.945178031921387
+
+Epoch: 650/1000
+Loss: 0.8518, Acc: 0.7193
+Train/Val/Test loss: 0.7541/0.7977/0.8324
+Train/Val/Test/Best val/Best test acc: 0.7498/0.7311/0.7167/0.7344/0.7238
+
+Starting Epoch  651
+Epoch run-time  5.933521032333374
+Starting Epoch  652
+Epoch run-time  6.021276235580444
+Starting Epoch  653
+Epoch run-time  6.268499851226807
+Starting Epoch  654
+Epoch run-time  6.031958103179932
+Starting Epoch  655
+Epoch run-time  6.0140380859375
+Starting Epoch  656
+Epoch run-time  6.1130592823028564
+Starting Epoch  657
+Epoch run-time  6.216747999191284
+Starting Epoch  658
+Epoch run-time  6.382036209106445
+Starting Epoch  659
+Epoch run-time  6.075362682342529
+Starting Epoch  660
+Epoch run-time  6.4578328132629395
+
+Epoch: 660/1000
+Loss: 0.8762, Acc: 0.7143
+Train/Val/Test loss: 0.7805/0.8515/0.9268
+Train/Val/Test/Best val/Best test acc: 0.7414/0.7100/0.6812/0.7344/0.7238
+
+Starting Epoch  661
+Epoch run-time  6.182029962539673
+Starting Epoch  662
+Epoch run-time  6.047778606414795
+Starting Epoch  663
+Epoch run-time  6.210089683532715
+Starting Epoch  664
+Epoch run-time  6.904672861099243
+Starting Epoch  665
+Epoch run-time  5.9811224937438965
+Starting Epoch  666
+Epoch run-time  6.041884422302246
+Starting Epoch  667
+Epoch run-time  5.957494735717773
+Starting Epoch  668
+Epoch run-time  5.986588716506958
+Starting Epoch  669
+Epoch run-time  6.042206525802612
+Starting Epoch  670
+Epoch run-time  5.947803735733032
+
+Epoch: 670/1000
+Loss: 0.8545, Acc: 0.7178
+Train/Val/Test loss: 0.7690/0.8440/0.9187
+Train/Val/Test/Best val/Best test acc: 0.7454/0.7120/0.6836/0.7344/0.7238
+
+Starting Epoch  671
+Epoch run-time  6.006641864776611
+Starting Epoch  672
+Epoch run-time  6.015001535415649
+Starting Epoch  673
+Epoch run-time  5.932279348373413
+Starting Epoch  674
+Epoch run-time  6.006959676742554
+Starting Epoch  675
+Epoch run-time  6.174087047576904
+Starting Epoch  676
+Epoch run-time  6.051616191864014
+Starting Epoch  677
+Epoch run-time  5.9074647426605225
+Starting Epoch  678
+Epoch run-time  6.052023410797119
+Starting Epoch  679
+Epoch run-time  6.119479179382324
+Starting Epoch  680
+Epoch run-time  5.999392986297607
+
+Epoch: 680/1000
+Loss: 0.8678, Acc: 0.7171
+Train/Val/Test loss: 0.7738/0.8667/0.9609
+Train/Val/Test/Best val/Best test acc: 0.7428/0.7029/0.6661/0.7344/0.7238
+
+Starting Epoch  681
+Epoch run-time  6.190378665924072
+Starting Epoch  682
+Epoch run-time  6.069950342178345
+Starting Epoch  683
+Epoch run-time  6.1701037883758545
+Starting Epoch  684
+Epoch run-time  6.005516767501831
+Starting Epoch  685
+Epoch run-time  6.663892984390259
+Starting Epoch  686
+Epoch run-time  5.936043977737427
+Starting Epoch  687
+Epoch run-time  5.978587865829468
+Starting Epoch  688
+Epoch run-time  5.935918092727661
+Starting Epoch  689
+Epoch run-time  6.243298530578613
+Starting Epoch  690
+Epoch run-time  6.491144180297852
+
+Epoch: 690/1000
+Loss: 0.8603, Acc: 0.7170
+Train/Val/Test loss: 0.7719/0.8455/0.9063
+Train/Val/Test/Best val/Best test acc: 0.7437/0.7137/0.6899/0.7344/0.7238
+
+Starting Epoch  691
+Epoch run-time  6.017534494400024
+Starting Epoch  692
+Epoch run-time  5.935629367828369
+Starting Epoch  693
+Epoch run-time  6.863056182861328
+Starting Epoch  694
+Epoch run-time  5.991008043289185
+Starting Epoch  695
+Epoch run-time  6.189805507659912
+Starting Epoch  696
+Epoch run-time  6.064178466796875
+Starting Epoch  697
+Epoch run-time  6.013772487640381
+Starting Epoch  698
+Epoch run-time  6.0847132205963135
+Starting Epoch  699
+Epoch run-time  6.0422444343566895
+Starting Epoch  700
+Epoch run-time  6.516276836395264
+
+Epoch: 700/1000
+Loss: 0.8640, Acc: 0.7181
+Train/Val/Test loss: 0.7486/0.7984/0.8313
+Train/Val/Test/Best val/Best test acc: 0.7519/0.7310/0.7176/0.7344/0.7238
+
+Starting Epoch  701
+Epoch run-time  5.990651845932007
+Starting Epoch  702
+Epoch run-time  5.8854334354400635
+Starting Epoch  703
+Epoch run-time  5.901071548461914
+Starting Epoch  704
+Epoch run-time  6.053158760070801
+Starting Epoch  705
+Epoch run-time  6.0756189823150635
+Starting Epoch  706
+Epoch run-time  6.124629974365234
+Starting Epoch  707
+Epoch run-time  6.069998741149902
+Starting Epoch  708
+Epoch run-time  6.15678596496582
+Starting Epoch  709
+Epoch run-time  6.3042826652526855
+Starting Epoch  710
+Epoch run-time  5.984913110733032
+
+Epoch: 710/1000
+Loss: 0.8439, Acc: 0.7189
+Train/Val/Test loss: 0.7579/0.8051/0.8311
+Train/Val/Test/Best val/Best test acc: 0.7482/0.7275/0.7181/0.7344/0.7238
+
+Starting Epoch  711
+Epoch run-time  6.425807476043701
+Starting Epoch  712
+Epoch run-time  5.978675603866577
+Starting Epoch  713
+Epoch run-time  6.03512167930603
+Starting Epoch  714
+Epoch run-time  5.945348024368286
+Starting Epoch  715
+Epoch run-time  5.922514200210571
+Starting Epoch  716
+Epoch run-time  6.036545515060425
+Starting Epoch  717
+Epoch run-time  6.113762617111206
+Starting Epoch  718
+Epoch run-time  5.983679294586182
+Starting Epoch  719
+Epoch run-time  6.659315824508667
+Starting Epoch  720
+Epoch run-time  6.0189735889434814
+
+Epoch: 720/1000
+Loss: 0.8823, Acc: 0.7129
+Train/Val/Test loss: 0.8034/0.8366/0.8386
+Train/Val/Test/Best val/Best test acc: 0.7348/0.7172/0.7163/0.7344/0.7238
+
+Starting Epoch  721
+Epoch run-time  6.062480926513672
+Starting Epoch  722
+Epoch run-time  6.034141302108765
+Starting Epoch  723
+Epoch run-time  6.063223600387573
+Starting Epoch  724
+Epoch run-time  6.036268711090088
+Starting Epoch  725
+Epoch run-time  5.960132122039795
+Starting Epoch  726
+Epoch run-time  6.051658868789673
+Starting Epoch  727
+Epoch run-time  6.209900617599487
+Starting Epoch  728
+Epoch run-time  6.027042388916016
+Starting Epoch  729
+Epoch run-time  6.030054807662964
+Starting Epoch  730
+Epoch run-time  5.936880826950073
+
+Epoch: 730/1000
+Loss: 0.8588, Acc: 0.7170
+Train/Val/Test loss: 0.7576/0.8141/0.8631
+Train/Val/Test/Best val/Best test acc: 0.7480/0.7250/0.7051/0.7344/0.7238
+
+Starting Epoch  731
+Epoch run-time  5.971485376358032
+Starting Epoch  732
+Epoch run-time  5.971792459487915
+Starting Epoch  733
+Epoch run-time  6.343539714813232
+Starting Epoch  734
+Epoch run-time  6.056570768356323
+Starting Epoch  735
+Epoch run-time  5.927661657333374
+Starting Epoch  736
+Epoch run-time  6.085308790206909
+Starting Epoch  737
+Epoch run-time  6.120548963546753
+Starting Epoch  738
+Epoch run-time  6.162505149841309
+Starting Epoch  739
+Epoch run-time  6.006275653839111
+Starting Epoch  740
+Epoch run-time  6.063324689865112
+
+Epoch: 740/1000
+Loss: 0.8587, Acc: 0.7185
+Train/Val/Test loss: 0.7719/0.8484/0.9208
+Train/Val/Test/Best val/Best test acc: 0.7440/0.7121/0.6837/0.7344/0.7238
+
+Starting Epoch  741
+Epoch run-time  6.114489793777466
+Starting Epoch  742
+Epoch run-time  6.058745384216309
+Starting Epoch  743
+Epoch run-time  5.879518747329712
+Starting Epoch  744
+Epoch run-time  6.117107629776001
+Starting Epoch  745
+Epoch run-time  6.067011594772339
+Starting Epoch  746
+Epoch run-time  6.082207918167114
+Starting Epoch  747
+Epoch run-time  7.171169996261597
+Starting Epoch  748
+Epoch run-time  5.9866602420806885
+Starting Epoch  749
+Epoch run-time  5.922382593154907
+Starting Epoch  750
+Epoch run-time  6.0039355754852295
+
+Epoch: 750/1000
+Loss: 0.8569, Acc: 0.7175
+Train/Val/Test loss: 0.7589/0.8201/0.8786
+Train/Val/Test/Best val/Best test acc: 0.7488/0.7207/0.6991/0.7344/0.7238
+
+Starting Epoch  751
+Epoch run-time  6.054686546325684
+Starting Epoch  752
+Epoch run-time  5.939713478088379
+Starting Epoch  753
+Epoch run-time  6.143542766571045
+Starting Epoch  754
+Epoch run-time  6.225796699523926
+Starting Epoch  755
+Epoch run-time  6.293680429458618
+Starting Epoch  756
+Epoch run-time  6.1868040561676025
+Starting Epoch  757
+Epoch run-time  5.962811470031738
+Starting Epoch  758
+Epoch run-time  5.981495141983032
+Starting Epoch  759
+Epoch run-time  5.93845534324646
+Starting Epoch  760
+Epoch run-time  6.083128452301025
+
+Epoch: 760/1000
+Loss: 0.8563, Acc: 0.7175
+Train/Val/Test loss: 0.7726/0.8519/0.9321
+Train/Val/Test/Best val/Best test acc: 0.7437/0.7068/0.6779/0.7344/0.7238
+
+Starting Epoch  761
+Epoch run-time  6.0274646282196045
+Starting Epoch  762
+Epoch run-time  5.981322765350342
+Starting Epoch  763
+Epoch run-time  6.073391675949097
+Starting Epoch  764
+Epoch run-time  6.224917411804199
+Starting Epoch  765
+Epoch run-time  6.029951572418213
+Starting Epoch  766
+Epoch run-time  5.925875425338745
+Starting Epoch  767
+Epoch run-time  6.358139991760254
+Starting Epoch  768
+Epoch run-time  5.93213677406311
+Starting Epoch  769
+Epoch run-time  6.041447877883911
+Starting Epoch  770
+Epoch run-time  6.026693820953369
+
+Epoch: 770/1000
+Loss: 0.8467, Acc: 0.7203
+Train/Val/Test loss: 0.7635/0.8528/0.9282
+Train/Val/Test/Best val/Best test acc: 0.7467/0.7083/0.6799/0.7344/0.7238
+
+Starting Epoch  771
+Epoch run-time  6.019700527191162
+Starting Epoch  772
+Epoch run-time  5.910830020904541
+Starting Epoch  773
+Epoch run-time  6.725636959075928
+Starting Epoch  774
+Epoch run-time  6.019866943359375
+Starting Epoch  775
+Epoch run-time  6.083418369293213
+Starting Epoch  776
+Epoch run-time  6.123828649520874
+Starting Epoch  777
+Epoch run-time  6.029178857803345
+Starting Epoch  778
+Epoch run-time  6.102283716201782
+Starting Epoch  779
+Epoch run-time  6.126522541046143
+Starting Epoch  780
+Epoch run-time  5.898045301437378
+
+Epoch: 780/1000
+Loss: 0.8486, Acc: 0.7194
+Train/Val/Test loss: 0.7707/0.8643/0.9445
+Train/Val/Test/Best val/Best test acc: 0.7440/0.7051/0.6740/0.7344/0.7238
+
+Starting Epoch  781
+Epoch run-time  5.9729979038238525
+Starting Epoch  782
+Epoch run-time  5.911268949508667
+Starting Epoch  783
+Epoch run-time  6.016100883483887
+Starting Epoch  784
+Epoch run-time  6.000001668930054
+Starting Epoch  785
+Epoch run-time  6.124338626861572
+Starting Epoch  786
+Epoch run-time  6.034730672836304
+Starting Epoch  787
+Epoch run-time  5.999671936035156
+Starting Epoch  788
+Epoch run-time  6.084379196166992
+Starting Epoch  789
+Epoch run-time  6.120742321014404
+Starting Epoch  790
+Epoch run-time  6.0744757652282715
+
+Epoch: 790/1000
+Loss: 0.8454, Acc: 0.7204
+Train/Val/Test loss: 0.7438/0.8079/0.8595
+Train/Val/Test/Best val/Best test acc: 0.7533/0.7274/0.7061/0.7344/0.7238
+
+Starting Epoch  791
+Epoch run-time  6.090747594833374
+Starting Epoch  792
+Epoch run-time  5.924563407897949
+Starting Epoch  793
+Epoch run-time  6.063338756561279
+Starting Epoch  794
+Epoch run-time  6.033129453659058
+Starting Epoch  795
+Epoch run-time  6.005706548690796
+Starting Epoch  796
+Epoch run-time  5.914892673492432
+Starting Epoch  797
+Epoch run-time  6.03852105140686
+Starting Epoch  798
+Epoch run-time  5.9947264194488525
+Starting Epoch  799
+Epoch run-time  6.078618049621582
+Starting Epoch  800
+Epoch run-time  5.934182643890381
+
+Epoch: 800/1000
+Loss: 0.8584, Acc: 0.7175
+Train/Val/Test loss: 0.7455/0.8094/0.8574
+Train/Val/Test/Best val/Best test acc: 0.7527/0.7261/0.7076/0.7344/0.7238
+
+Starting Epoch  801
+Epoch run-time  5.966706991195679
+Starting Epoch  802
+Epoch run-time  6.019048452377319
+Starting Epoch  803
+Epoch run-time  6.105705499649048
+Starting Epoch  804
+Epoch run-time  5.992428302764893
+Starting Epoch  805
+Epoch run-time  6.255258321762085
+Starting Epoch  806
+Epoch run-time  5.976781606674194
+Starting Epoch  807
+Epoch run-time  5.97624945640564
+Starting Epoch  808
+Epoch run-time  6.0182929039001465
+Starting Epoch  809
+Epoch run-time  6.128453016281128
+Starting Epoch  810
+Epoch run-time  6.100227355957031
+
+Epoch: 810/1000
+Loss: 0.8519, Acc: 0.7203
+Train/Val/Test loss: 0.7486/0.8165/0.8698
+Train/Val/Test/Best val/Best test acc: 0.7518/0.7225/0.7037/0.7344/0.7238
+
+Starting Epoch  811
+Epoch run-time  6.207112550735474
+Starting Epoch  812
+Epoch run-time  6.224546909332275
+Starting Epoch  813
+Epoch run-time  6.2030792236328125
+Starting Epoch  814
+Epoch run-time  6.028566360473633
+Starting Epoch  815
+Epoch run-time  5.987185955047607
+Starting Epoch  816
+Epoch run-time  6.518733263015747
+Starting Epoch  817
+Epoch run-time  6.217031240463257
+Starting Epoch  818
+Epoch run-time  6.0568742752075195
+Starting Epoch  819
+Epoch run-time  5.938190460205078
+Starting Epoch  820
+Epoch run-time  5.915543794631958
+
+Epoch: 820/1000
+Loss: 0.8520, Acc: 0.7196
+Train/Val/Test loss: 0.7491/0.8261/0.8914
+Train/Val/Test/Best val/Best test acc: 0.7508/0.7173/0.6932/0.7344/0.7238
+
+Starting Epoch  821
+Epoch run-time  5.988376617431641
+Starting Epoch  822
+Epoch run-time  5.899391174316406
+Starting Epoch  823
+Epoch run-time  6.293225288391113
+Starting Epoch  824
+Epoch run-time  6.175733804702759
+Starting Epoch  825
+Epoch run-time  6.087934970855713
+Starting Epoch  826
+Epoch run-time  6.0098395347595215
+Starting Epoch  827
+Epoch run-time  6.033376455307007
+Starting Epoch  828
+Epoch run-time  6.170696973800659
+Starting Epoch  829
+Epoch run-time  6.048617601394653
+Starting Epoch  830
+Epoch run-time  6.089128732681274
+
+Epoch: 830/1000
+Loss: 0.8602, Acc: 0.7175
+Train/Val/Test loss: 0.7575/0.8406/0.9143
+Train/Val/Test/Best val/Best test acc: 0.7490/0.7135/0.6859/0.7344/0.7238
+
+Starting Epoch  831
+Epoch run-time  5.899271488189697
+Starting Epoch  832
+Epoch run-time  6.102219343185425
+Starting Epoch  833
+Epoch run-time  6.053663730621338
+Starting Epoch  834
+Epoch run-time  5.980809211730957
+Starting Epoch  835
+Epoch run-time  6.194393634796143
+Starting Epoch  836
+Epoch run-time  6.0173890590667725
+Starting Epoch  837
+Epoch run-time  6.104905843734741
+Starting Epoch  838
+Epoch run-time  6.025247573852539
+Starting Epoch  839
+Epoch run-time  6.040803909301758
+Starting Epoch  840
+Epoch run-time  6.035745620727539
+
+Epoch: 840/1000
+Loss: 0.8513, Acc: 0.7210
+Train/Val/Test loss: 0.7500/0.8429/0.9202
+Train/Val/Test/Best val/Best test acc: 0.7512/0.7112/0.6824/0.7344/0.7238
+
+Starting Epoch  841
+Epoch run-time  6.190783500671387
+Starting Epoch  842
+Epoch run-time  6.425757169723511
+Starting Epoch  843
+Epoch run-time  6.155277490615845
+Starting Epoch  844
+Epoch run-time  5.942314863204956
+Starting Epoch  845
+Epoch run-time  6.03258490562439
+Starting Epoch  846
+Epoch run-time  5.978437900543213
+Starting Epoch  847
+Epoch run-time  6.03400993347168
+Starting Epoch  848
+Epoch run-time  6.9551897048950195
+Starting Epoch  849
+Epoch run-time  6.06154465675354
+Starting Epoch  850
+Epoch run-time  5.976947784423828
+
+Epoch: 850/1000
+Loss: 0.8563, Acc: 0.7183
+Train/Val/Test loss: 0.7733/0.8710/0.9456
+Train/Val/Test/Best val/Best test acc: 0.7441/0.7048/0.6766/0.7344/0.7238
+
+Starting Epoch  851
+Epoch run-time  5.941942930221558
+Starting Epoch  852
+Epoch run-time  5.943774700164795
+Starting Epoch  853
+Epoch run-time  5.971158504486084
+Starting Epoch  854
+Epoch run-time  6.015782833099365
+Starting Epoch  855
+Epoch run-time  6.017595052719116
+Starting Epoch  856
+Epoch run-time  6.194528579711914
+Starting Epoch  857
+Epoch run-time  6.0380589962005615
+Starting Epoch  858
+Epoch run-time  6.043787479400635
+Starting Epoch  859
+Epoch run-time  6.033708095550537
+Starting Epoch  860
+Epoch run-time  6.009958267211914
+
+Epoch: 860/1000
+Loss: 0.8626, Acc: 0.7189
+Train/Val/Test loss: 0.7486/0.8086/0.8461
+Train/Val/Test/Best val/Best test acc: 0.7512/0.7275/0.7142/0.7344/0.7238
+
+Starting Epoch  861
+Epoch run-time  5.883636236190796
+Starting Epoch  862
+Epoch run-time  7.054908752441406
+Starting Epoch  863
+Epoch run-time  6.115227460861206
+Starting Epoch  864
+Epoch run-time  6.134487867355347
+Starting Epoch  865
+Epoch run-time  5.927069664001465
+Starting Epoch  866
+Epoch run-time  5.980728626251221
+Starting Epoch  867
+Epoch run-time  5.993235111236572
+Starting Epoch  868
+Epoch run-time  6.119787216186523
+Starting Epoch  869
+Epoch run-time  6.058157920837402
+Starting Epoch  870
+Epoch run-time  6.175200939178467
+
+Epoch: 870/1000
+Loss: 0.8444, Acc: 0.7214
+Train/Val/Test loss: 0.7596/0.8173/0.8313
+Train/Val/Test/Best val/Best test acc: 0.7482/0.7230/0.7174/0.7322/0.7262
+
+Starting Epoch  871
+Epoch run-time  6.203922510147095
+Starting Epoch  872
+Epoch run-time  6.230098009109497
+Starting Epoch  873
+Epoch run-time  6.342959880828857
+Starting Epoch  874
+Epoch run-time  6.147183179855347
+Starting Epoch  875
+Epoch run-time  7.018704175949097
+Starting Epoch  876
+Epoch run-time  5.9537293910980225
+Starting Epoch  877
+Epoch run-time  5.994263410568237
+Starting Epoch  878
+Epoch run-time  6.1612889766693115
+Starting Epoch  879
+Epoch run-time  7.093840599060059
+Starting Epoch  880
+Epoch run-time  5.859280586242676
+
+Epoch: 880/1000
+Loss: 0.8528, Acc: 0.7204
+Train/Val/Test loss: 0.7427/0.8002/0.8414
+Train/Val/Test/Best val/Best test acc: 0.7537/0.7301/0.7137/0.7322/0.7262
+
+Starting Epoch  881
+Epoch run-time  6.073264122009277
+Starting Epoch  882
+Epoch run-time  6.15256404876709
+Starting Epoch  883
+Epoch run-time  6.059367418289185
+Starting Epoch  884
+Epoch run-time  6.0949625968933105
+Starting Epoch  885
+Epoch run-time  6.035359859466553
+Starting Epoch  886
+Epoch run-time  6.098294258117676
+Starting Epoch  887
+Epoch run-time  6.006758213043213
+Starting Epoch  888
+Epoch run-time  6.143047571182251
+Starting Epoch  889
+Epoch run-time  5.961705446243286
+Starting Epoch  890
+Epoch run-time  6.483515739440918
+
+Epoch: 890/1000
+Loss: 0.8500, Acc: 0.7206
+Train/Val/Test loss: 0.7334/0.7863/0.8137
+Train/Val/Test/Best val/Best test acc: 0.7567/0.7339/0.7231/0.7339/0.7231
+
+Starting Epoch  891
+Epoch run-time  5.9363791942596436
+Starting Epoch  892
+Epoch run-time  6.062348365783691
+Starting Epoch  893
+Epoch run-time  6.081835985183716
+Starting Epoch  894
+Epoch run-time  6.025232791900635
+Starting Epoch  895
+Epoch run-time  6.031787872314453
+Starting Epoch  896
+Epoch run-time  6.058777093887329
+Starting Epoch  897
+Epoch run-time  6.029731512069702
+Starting Epoch  898
+Epoch run-time  6.05228590965271
+Starting Epoch  899
+Epoch run-time  6.054784059524536
+Starting Epoch  900
+Epoch run-time  6.0933637619018555
+
+Epoch: 900/1000
+Loss: 0.8470, Acc: 0.7214
+Train/Val/Test loss: 0.7507/0.8080/0.8192
+Train/Val/Test/Best val/Best test acc: 0.7512/0.7261/0.7223/0.7339/0.7231
+
+Starting Epoch  901
+Epoch run-time  6.032083034515381
+Starting Epoch  902
+Epoch run-time  6.002355098724365
+Starting Epoch  903
+Epoch run-time  6.037760972976685
+Starting Epoch  904
+Epoch run-time  5.951713562011719
+Starting Epoch  905
+Epoch run-time  6.025354385375977
+Starting Epoch  906
+Epoch run-time  5.987659454345703
+Starting Epoch  907
+Epoch run-time  6.031227350234985
+Starting Epoch  908
+Epoch run-time  5.929304838180542
+Starting Epoch  909
+Epoch run-time  6.039352655410767
+Starting Epoch  910
+Epoch run-time  6.074983835220337
+
+Epoch: 910/1000
+Loss: 0.8502, Acc: 0.7208
+Train/Val/Test loss: 0.7369/0.7955/0.8356
+Train/Val/Test/Best val/Best test acc: 0.7553/0.7314/0.7162/0.7339/0.7231
+
+Starting Epoch  911
+Epoch run-time  5.9456963539123535
+Starting Epoch  912
+Epoch run-time  6.052755832672119
+Starting Epoch  913
+Epoch run-time  6.208129167556763
+Starting Epoch  914
+Epoch run-time  5.931744575500488
+Starting Epoch  915
+Epoch run-time  5.897902727127075
+Starting Epoch  916
+Epoch run-time  6.214757680892944
+Starting Epoch  917
+Epoch run-time  6.054974794387817
+Starting Epoch  918
+Epoch run-time  6.092949151992798
+Starting Epoch  919
+Epoch run-time  6.475313425064087
+Starting Epoch  920
+Epoch run-time  5.954451560974121
+
+Epoch: 920/1000
+Loss: 0.8450, Acc: 0.7212
+Train/Val/Test loss: 0.7401/0.8252/0.8917
+Train/Val/Test/Best val/Best test acc: 0.7540/0.7193/0.6938/0.7339/0.7231
+
+Starting Epoch  921
+Epoch run-time  6.099786281585693
+Starting Epoch  922
+Epoch run-time  5.906968593597412
+Starting Epoch  923
+Epoch run-time  6.000204563140869
+Starting Epoch  924
+Epoch run-time  5.953188180923462
+Starting Epoch  925
+Epoch run-time  5.932089805603027
+Starting Epoch  926
+Epoch run-time  5.989336967468262
+Starting Epoch  927
+Epoch run-time  5.96780252456665
+Starting Epoch  928
+Epoch run-time  6.950999736785889
+Starting Epoch  929
+Epoch run-time  5.937715768814087
+Starting Epoch  930
+Epoch run-time  5.926037788391113
+
+Epoch: 930/1000
+Loss: 0.8490, Acc: 0.7202
+Train/Val/Test loss: 0.7549/0.8590/0.9455
+Train/Val/Test/Best val/Best test acc: 0.7501/0.7074/0.6736/0.7339/0.7231
+
+Starting Epoch  931
+Epoch run-time  5.9469382762908936
+Starting Epoch  932
+Epoch run-time  6.077326059341431
+Starting Epoch  933
+Epoch run-time  6.230897903442383
+Starting Epoch  934
+Epoch run-time  6.017995119094849
+Starting Epoch  935
+Epoch run-time  6.140068531036377
+Starting Epoch  936
+Epoch run-time  5.9711761474609375
+Starting Epoch  937
+Epoch run-time  6.106849670410156
+Starting Epoch  938
+Epoch run-time  5.959282636642456
+Starting Epoch  939
+Epoch run-time  6.019033908843994
+Starting Epoch  940
+Epoch run-time  6.922580003738403
+
+Epoch: 940/1000
+Loss: 0.8472, Acc: 0.7210
+Train/Val/Test loss: 0.7480/0.7966/0.8318
+Train/Val/Test/Best val/Best test acc: 0.7520/0.7304/0.7179/0.7339/0.7231
+
+Starting Epoch  941
+Epoch run-time  6.259259462356567
+Starting Epoch  942
+Epoch run-time  5.971512317657471
+Starting Epoch  943
+Epoch run-time  6.054526090621948
+Starting Epoch  944
+Epoch run-time  6.075048208236694
+Starting Epoch  945
+Epoch run-time  5.870667457580566
+Starting Epoch  946
+Epoch run-time  6.14962100982666
+Starting Epoch  947
+Epoch run-time  5.936107635498047
+Starting Epoch  948
+Epoch run-time  5.918317079544067
+Starting Epoch  949
+Epoch run-time  6.009044170379639
+Starting Epoch  950
+Epoch run-time  5.955483913421631
+
+Epoch: 950/1000
+Loss: 0.8387, Acc: 0.7226
+Train/Val/Test loss: 0.7578/0.8195/0.8297
+Train/Val/Test/Best val/Best test acc: 0.7483/0.7224/0.7190/0.7339/0.7231
+
+Starting Epoch  951
+Epoch run-time  6.072519540786743
+Starting Epoch  952
+Epoch run-time  6.214235305786133
+Starting Epoch  953
+Epoch run-time  6.472043514251709
+Starting Epoch  954
+Epoch run-time  6.087561845779419
+Starting Epoch  955
+Epoch run-time  6.0066447257995605
+Starting Epoch  956
+Epoch run-time  5.998792409896851
+Starting Epoch  957
+Epoch run-time  5.885706424713135
+Starting Epoch  958
+Epoch run-time  6.033242464065552
+Starting Epoch  959
+Epoch run-time  6.003650903701782
+Starting Epoch  960
+Epoch run-time  5.9554688930511475
+
+Epoch: 960/1000
+Loss: 0.8445, Acc: 0.7221
+Train/Val/Test loss: 0.7390/0.8038/0.8321
+Train/Val/Test/Best val/Best test acc: 0.7550/0.7277/0.7183/0.7339/0.7231
+
+Starting Epoch  961
+Epoch run-time  5.957389831542969
+Starting Epoch  962
+Epoch run-time  6.030086040496826
+Starting Epoch  963
+Epoch run-time  6.005523920059204
+Starting Epoch  964
+Epoch run-time  6.009713649749756
+Starting Epoch  965
+Epoch run-time  5.957894325256348
+Starting Epoch  966
+Epoch run-time  5.982161521911621
+Starting Epoch  967
+Epoch run-time  5.977238416671753
+Starting Epoch  968
+Epoch run-time  6.139716148376465
+Starting Epoch  969
+Epoch run-time  5.957770347595215
+Starting Epoch  970
+Epoch run-time  6.125904560089111
+
+Epoch: 970/1000
+Loss: 0.8358, Acc: 0.7246
+Train/Val/Test loss: 0.7414/0.8138/0.8404
+Train/Val/Test/Best val/Best test acc: 0.7538/0.7234/0.7143/0.7339/0.7231
+
+Starting Epoch  971
+Epoch run-time  6.421600103378296
+Starting Epoch  972
+Epoch run-time  5.977903604507446
+Starting Epoch  973
+Epoch run-time  6.080146551132202
+Starting Epoch  974
+Epoch run-time  6.114243984222412
+Starting Epoch  975
+Epoch run-time  6.006901025772095
+Starting Epoch  976
+Epoch run-time  6.050354957580566
+Starting Epoch  977
+Epoch run-time  6.588216066360474
+Starting Epoch  978
+Epoch run-time  6.166396617889404
+Starting Epoch  979
+Epoch run-time  6.04321551322937
+Starting Epoch  980
+Epoch run-time  6.145390748977661
+
+Epoch: 980/1000
+Loss: 0.8448, Acc: 0.7230
+Train/Val/Test loss: 0.7363/0.7876/0.8054
+Train/Val/Test/Best val/Best test acc: 0.7554/0.7332/0.7252/0.7339/0.7231
+
+Starting Epoch  981
+Epoch run-time  6.040091276168823
+Starting Epoch  982
+Epoch run-time  5.926086187362671
+Starting Epoch  983
+Epoch run-time  6.419750452041626
+Starting Epoch  984
+Epoch run-time  5.984782457351685
+Starting Epoch  985
+Epoch run-time  5.939932346343994
+Starting Epoch  986
+Epoch run-time  5.986208438873291
+Starting Epoch  987
+Epoch run-time  5.86599588394165
+Starting Epoch  988
+Epoch run-time  5.919356822967529
+Starting Epoch  989
+Epoch run-time  6.048077583312988
+Starting Epoch  990
+Epoch run-time  6.029017448425293
+
+Epoch: 990/1000
+Loss: 0.8432, Acc: 0.7216
+Train/Val/Test loss: 0.7443/0.8045/0.8322
+Train/Val/Test/Best val/Best test acc: 0.7522/0.7278/0.7164/0.7339/0.7231
+
+Starting Epoch  991
+Epoch run-time  5.986719131469727
+Starting Epoch  992
+Epoch run-time  6.101467847824097
+Starting Epoch  993
+Epoch run-time  6.007185459136963
+Starting Epoch  994
+Epoch run-time  5.9722161293029785
+Starting Epoch  995
+Epoch run-time  5.961012363433838
+Starting Epoch  996
+Epoch run-time  5.957607984542847
+Starting Epoch  997
+Epoch run-time  6.0451741218566895
+Starting Epoch  998
+Epoch run-time  6.059920787811279
+Starting Epoch  999
+Epoch run-time  5.9953083992004395
+Starting Epoch  1000
+Epoch run-time  6.074494123458862
+
+Epoch: 1000/1000
+Loss: 0.8413, Acc: 0.7241
+Train/Val/Test loss: 0.7262/0.7903/0.8338
+Train/Val/Test/Best val/Best test acc: 0.7582/0.7315/0.7157/0.7339/0.7231
+
+**************************************************
+Average epoch time: 6.109512922525406
+Total Time: 6109.512922525406
+Test acc: 0.7231446618521491
+
+Val Accs: 0.7338501291989664
+Test Accs: 0.7231446618521491
+Number of params: 219256
