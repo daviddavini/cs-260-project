@@ -1,0 +1,11 @@
+Starting One-Vs-All Linear SVM (LinearSVC)
+
+Train time:  273.0193078517914
+Generating predictions
+Prediction time:  0.4378194808959961
+Calculating Accuracy
+Calculation time:  0.00797891616821289
+
+Train Accuracy:  0.5337526528188605
+Val Accuracy: 0.5417631464143092
+Test Accuracy:  0.5184042137316627

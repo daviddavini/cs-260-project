@@ -1,0 +1,11 @@
+Starting One-Vs-One Linear SVM (SVC)
+
+Train time:  1085.1523706912994
+Generating predictions
+Prediction time:  2263.5318217277527
+Calculating Accuracy
+Calculation time:  0.16823053359985352
+
+Train Accuracy:  0.5675437921289628
+Val Accuracy: 0.5551864156515319
+Test Accuracy:  0.5334855873094253
