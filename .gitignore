@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+GCN-LPA Model/GCN-LPA_dim=50_lpa_iter=10_lr=0.02/.DS_Store
